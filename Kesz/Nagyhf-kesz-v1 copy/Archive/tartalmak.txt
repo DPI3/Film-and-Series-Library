@@ -1,0 +1,61 @@
+Jatekfilm
+Cím: Django
+Műfaj: Western
+Nyelv: Angol
+Korhatár: 18
+Megjelenés: 2013-0-0
+Időtartam: 2:45
+
+Sorozat
+Cím: Monika show
+Évadok száma: 10
+Részek száma: 1918
+Befejezett: true
+Befejezés dátuma: 2010-12-5
+Műfaj: Drama
+Nyelv: Magyar, Cigany
+Korhatár: 18
+Megjelenés: 2001-6-15
+
+Minisorozat
+Cím: The billion dollar code
+Részek száma: 4
+Műfaj: Drama
+Nyelv: Angol
+Korhatár: 15
+Megjelenés: 2021-9-3
+Időtartam: 0:0
+
+Dokumentumfilm
+Cím: A Viszkis balladája - Szökésben
+Leírás: Ambrus Attila nem tudott megélni hoki kapus fizetéséből. Ezért egy jóval veszélyesebb, ám annál jövedelmezőbb foglalkozás után nézett. Ő lett a rendszerváltás utáni Magyarország leghíresebb bűnözője. Több mint hét éven keresztül fosztogatta a pénzintézeteket, és borzolta a hatóságok idegeit. A Viszkis rablóként elhíresült bűnözőt a lakosság hamarosan egyfajta nemzeti hősnek tekintette. Annyira népszerűvé vált, hogy az emberek egyszerűen nem segítették a rendőrség munkáját. Így aztán a bűnüldöző hatóságoknak sokáig fogalmuk sem volt róla, kit is keresnek valójában.
+Műfaj: Dokumentumfilm
+Nyelv: Magyar
+Korhatár: 16
+Megjelenés: 2005-11-10
+Időtartam: 1:0
+
+Jatekfilm
+Cím: Az
+Műfaj: Horror
+Nyelv: Angol
+Korhatár: 18
+Megjelenés: 2017-5-20
+Időtartam: 1:34
+
+Jatekfilm
+Cím: Konroll
+Műfaj: Drama
+Nyelv: Magyar
+Korhatár: 16
+Megjelenés: 2003-0-0
+Időtartam: 1:53
+
+Jatekfilm
+Cím: Valami Amerika
+Műfaj: Vigjatek
+Nyelv: Magyar
+Korhatár: 16
+Megjelenés: 2003-0-0
+Időtartam: 1:31
+
